@@ -1,0 +1,8 @@
+# Demand of industry_steel_production
+
+- query =
+      SUM(
+        V(industry_chemicals_fertilizers_external_coupling_node_energetic, demand),
+        V(industry_chemicals_fertilizers_external_coupling_node_non_energetic, demand)
+      )
+- unit = MJ

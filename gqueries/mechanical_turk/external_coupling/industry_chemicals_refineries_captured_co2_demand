@@ -1,0 +1,4 @@
+# Demand of industry_chemicals_refineries_captured_co2
+
+- query = V(industry_chemicals_refineries_captured_co2, demand)
+- unit = MJ

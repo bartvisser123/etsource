@@ -1,0 +1,4 @@
+# Preset demand of industry_useful_demand_for_chemical_refineries_useable_heat
+
+- query = V(industry_useful_demand_for_chemical_refineries_useable_heat, preset_demand)
+- unit = MJ

@@ -1,0 +1,4 @@
+# Demand of industry_steel_production
+
+- query = V(industry_steel_production, demand)
+- unit = MJ

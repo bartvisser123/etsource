@@ -1,0 +1,4 @@
+# Demand of industry_steel_external_coupling_node_production
+
+- query = V(industry_steel_external_coupling_node_production, demand)
+- unit = MJ

@@ -1,0 +1,4 @@
+# Demand of industry_steel_external_coupling_node_captured_co2_electricity
+
+- query = V(industry_steel_external_coupling_node_captured_co2_electricity, demand)
+- unit = MJ

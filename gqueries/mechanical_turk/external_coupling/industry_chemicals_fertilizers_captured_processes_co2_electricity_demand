@@ -1,0 +1,4 @@
+# Demand of industry_chemicals_fertilizers_captured_combustion_co2
+
+- query = V(industry_chemicals_fertilizers_captured_combustion_co2, demand)
+- unit = MJ
