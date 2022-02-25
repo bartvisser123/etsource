@@ -1,0 +1,4 @@
+# Preset demand of industry_useful_demand_for_chemical_refineries_network_gas_non_energetic
+
+- query = V(industry_useful_demand_for_chemical_refineries_network_gas_non_energetic, preset_demand)
+- unit = MJ

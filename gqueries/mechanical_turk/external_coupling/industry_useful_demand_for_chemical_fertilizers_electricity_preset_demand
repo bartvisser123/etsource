@@ -1,0 +1,4 @@
+# Preset demand of industry_useful_demand_for_chemical_fertilizers_electricity
+
+- query = V(industry_useful_demand_for_chemical_fertilizers_electricity, preset_demand)
+- unit = MJ

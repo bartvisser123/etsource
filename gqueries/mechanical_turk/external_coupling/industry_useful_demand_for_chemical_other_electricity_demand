@@ -1,0 +1,4 @@
+# Demand of industry_useful_demand_for_chemical_other_electricity
+
+- query = V(industry_useful_demand_for_chemical_other_electricity, demand)
+- unit = MJ
