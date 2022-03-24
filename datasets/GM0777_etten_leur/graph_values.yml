@@ -134,7 +134,7 @@ transport_final_demand_biodiesel:
 transport_final_demand_for_shipping_lng:
   demand: 0.0
 transport_useful_demand_bicycles:
-  demand: 31.66527928267511
+  demand: 32.036215633478776
 transport_final_demand_heavy_fuel_oil:
   demand: 0.0
 transport_final_demand_electricity:
@@ -658,23 +658,23 @@ buildings_final_demand_network_gas-buildings_final_demand_for_appliances_network
 buildings_local_production_electricity-buildings_final_demand_electricity@electricity:
   parent_share: 0.9727597925068446
 transport_final_demand_for_road_electricity-transport_van_using_electricity@electricity:
-  parent_share: 0.0
+  parent_share: 0.217767283707261
 transport_final_demand_electricity-transport_final_demand_for_road_electricity@electricity:
   parent_share: 0.0672044065784447
 transport_final_demand_biodiesel-transport_final_demand_for_rail_biodiesel@biodiesel:
   parent_share: 0.0
 transport_road_mixer_gasoline-transport_van_using_gasoline_mix@gasoline_mix:
-  parent_share: 0.009427871
+  parent_share: 0.00942787087905528
 transport_final_demand_for_road_electricity-transport_bicycle_using_electricity@electricity:
-  parent_share: 0.062724018
+  parent_share: 0.0874843590595501
 transport_final_demand_for_rail_electricity-transport_tram_using_electricity@electricity:
   parent_share: 0.0
 transport_road_mixer_diesel-transport_van_using_diesel_mix@diesel_mix:
-  parent_share: 0.085150444
+  parent_share: 0.0851504435806807
 transport_final_demand_biodiesel-transport_final_demand_for_shipping_biodiesel@biodiesel:
   parent_share: 0.0
 transport_road_mixer_diesel-transport_truck_using_diesel_mix@diesel_mix:
-  parent_share: 0.67586499
+  parent_share: 0.675864989556679
 transport_road_mixer_compressed_network_gas-transport_car_using_compressed_natural_gas@compressed_network_gas:
   parent_share: 0.0
 transport_final_demand_diesel-transport_final_demand_for_shipping_diesel@diesel:
@@ -682,7 +682,7 @@ transport_final_demand_diesel-transport_final_demand_for_shipping_diesel@diesel:
 transport_road_mixer_lng-transport_bus_using_lng_mix@lng_mix:
   parent_share: 1.0
 transport_final_demand_for_road_electricity-transport_car_using_electricity@electricity:
-  parent_share: 0.45024819
+  parent_share: 0.627983912940998
 transport_final_demand_diesel-transport_final_demand_for_road_diesel@diesel:
   parent_share: 0.9921900224886431
 transport_final_demand_for_road_hydrogen-transport_bus_using_hydrogen@hydrogen:
@@ -696,11 +696,11 @@ transport_rail_mixer_diesel-transport_freight_train_using_diesel_mix@diesel_mix:
 transport_final_demand_diesel-transport_final_demand_for_rail_diesel@diesel:
   parent_share: 0.006247982009085519
 transport_road_mixer_gasoline-transport_car_using_gasoline_mix@gasoline_mix:
-  parent_share: 0.961740804
+  parent_share: 0.961740804412774
 transport_road_mixer_diesel-transport_car_using_diesel_mix@diesel_mix:
-  parent_share: 0.21274859
+  parent_share: 0.212748590329906
 transport_road_mixer_diesel-transport_bus_using_diesel_mix@diesel_mix:
-  parent_share: 0.026235977
+  parent_share: 0.0262359765327352
 transport_final_demand_gasoline-transport_final_demand_for_road_gasoline@gasoline:
   parent_share: 1.0
 transport_road_mixer_compressed_network_gas-transport_bus_using_compressed_natural_gas@compressed_network_gas:
@@ -710,7 +710,7 @@ transport_road_mixer_gasoline-transport_truck_using_gasoline_mix@gasoline_mix:
 transport_final_demand_bio_ethanol-transport_final_demand_for_road_bio_ethanol@bio_ethanol:
   parent_share: 1.0
 transport_final_demand_for_road_electricity-transport_motorcycle_using_electricity@electricity:
-  parent_share: 0.047868376
+  parent_share: 0.066764444292191
 transport_final_demand_for_rail_electricity-transport_freight_train_using_electricity@electricity:
   parent_share: 0.137103914951699
 transport_final_demand_biodiesel-transport_final_demand_for_road_biodiesel@biodiesel:
